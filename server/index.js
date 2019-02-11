@@ -14,7 +14,7 @@ app.get("/products", (req, res) => {
   db.read((err, data) => {
     if (err) {
       console.log("Error in app.get /products", err);
-      res.end();
+      res.sendStatus(400);
     }
     // console.log("Data from app.get /products", data);
     res.json(data);
