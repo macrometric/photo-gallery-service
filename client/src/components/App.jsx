@@ -1,11 +1,17 @@
 import React from "react";
+import ImageContainer from "./ImageContainer.jsx";
 
 class App extends React.Component {
   constructor(props) {
     super(props);
   }
   render() {
-    return <div>Hi, I'm an app!</div>;
+    return (
+      <div>
+        <p>Hi, I'm an app!</p>
+        <ImageContainer />
+      </div>
+    );
   }
 }
 
