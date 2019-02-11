@@ -1,0 +1,1352 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Hilti Orbital Sander",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/057.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/101932.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 2,
+    "product_name": "Hilti Lathe",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/102820.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/112378.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/114396.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 3,
+    "product_name": "Bosch Table Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/126237.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 4,
+    "product_name": "Bosch PowerScrewdriver",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/126238.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/127624.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/wesley-caribe-63610-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/127628.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 5,
+    "product_name": "Dewalt Rotary Tool",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/william-felker-38350-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/127636.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/127639.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 6,
+    "product_name": "Bosch Shop Vacuum",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/yannis-papanastasopoulos-586848-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/132520.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 7,
+    "product_name": "Hilti Nail Gun",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/141538.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/147154.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 8,
+    "product_name": "Craftsman Chop Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/159718.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/16676.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/170395.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 9,
+    "product_name": "Dewalt Jointer",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/188163.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/203582.png"
+      }
+    ]
+  },
+  {
+    "product_id": 10,
+    "product_name": "Hilti Chainsaw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/240403.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/245228.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 11,
+    "product_name": "Bosch Reciprocating Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/246220.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 12,
+    "product_name": "Craftsman Circular Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/yoann-siloine-532510-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/27520.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 13,
+    "product_name": "Bosch Angle Grinder",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/34350.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/41839.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/41841.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/63563.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 14,
+    "product_name": "Craftsman Heat Gun",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/70123.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/78304.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/86668.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 15,
+    "product_name": "Bosch Jigsaw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/86675.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/86732.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/87129.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 16,
+    "product_name": "Hilti Chop Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/95461.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/95969.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 17,
+    "product_name": "Craftsman Biscuit Joiner",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/96307.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 18,
+    "product_name": "Bosch Biscuit Joiner",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/97930.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/EDIT_Cleco_C3120A45-58OH_MG_1060--Grinder Reversed.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/MOCK_DATA.json"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/Planet-Power-Tools-Cutter-Planet-SDL288439708-1-826f2.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 19,
+    "product_name": "Dewalt Table Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/aaron-barnaby-135630-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/abhishek-yadav-1285519-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/adam-sherez-228582-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/adi-goldstein-257316-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 20,
+    "product_name": "Hilti Biscuit Joiner",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/adi-goldstein-540718-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/adult-advertising-brand-162625.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/adult-apron-blur-374079.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 21,
+    "product_name": "Bosch Miter Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/adult-artisan-business-1094767.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/aj-yorio-153975-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/alberto-bobbera-522741-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 22,
+    "product_name": "HiltiHammer Drill",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/alex-jones-6800-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/alexander-andrews-586348-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 23,
+    "product_name": "Craftsman Disc Sander",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/allen-wrench-hex-key-metal-957912.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/amauri-acosta-montiel-432511-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 24,
+    "product_name": "Craftsman Nail Gun",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/amelie-ohlrogge-740756-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/amritanshu-sikdar-411865-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/andrew-ruiz-394426-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/angelina-litvin-37702-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 25,
+    "product_name": "Bosch Disc Sander",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/annie-gray-382969-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/annie-spratt-370977-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/annie-spratt-667031-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 26,
+    "product_name": "Dewalt Scroll Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/apply-blue-brush-221027.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/ariana-prestes-285-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/arthur-lambillotte-275530-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/ash-edmonds-669383-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 27,
+    "product_name": "Craftsman Miter Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/ashim-d-silva-106275-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/assemble-bolt-builder-1571175.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/assortment-black-and-white-black-and-white-220639.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/axe-close-up-drill-909256.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 28,
+    "product_name": "Craftsman Shop Vacuum",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/background-blank-business-301703.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 29,
+    "product_name": "Hilti Air Compressor",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/background-iron-metal-957090.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 30,
+    "product_name": "Hilti Table Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/barn-images-12223-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 31,
+    "product_name": "Dewalt Impact Driver",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/becca-lavin-640397-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/blacksmith-blurred-background-by-hand-1659746.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 32,
+    "product_name": "Craftsman Jointer",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/blade-board-build-414904.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 33,
+    "product_name": "Craftsman Rotary Tool",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/blue-body-crescent-1246959.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 34,
+    "product_name": "Hilti Jigsaw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/board-build-carpentry-1598213.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/bobby-rodriguezz-786104-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/bogomil-mihaylov-519195-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 35,
+    "product_name": "Bosch Rotary Tool",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/brandon-mowinkel-435686-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 36,
+    "product_name": "Hilti Rotary Tool",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/builder-carpenter-close-up-1251176.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/caleb-salomons-486024-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/caleb-woods-353319-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 37,
+    "product_name": "Hilti Shop Vacuum",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/carpenter-carpentry-close-up-1094770.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 38,
+    "product_name": "Craftsman Reciprocating Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/carpenter-carpentry-drill-1249611.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/carpenter-hands-indoors-374861.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 39,
+    "product_name": "Hilti Miter Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/carpentry-close-up-door-1166384.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/cesar-carlevarino-aragon-778069-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 40,
+    "product_name": "Craftsman Air Compressor",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/cetteup-76960-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/cetteup-76964-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/chainsaw-clamps-claw-116741.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/charles-625885-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 41,
+    "product_name": "Dewalt Biscuit Joiner",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/charles-787251-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 42,
+    "product_name": "Dewalt Radial Arm Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/chris-yates-705754-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/christian-fregnan-1159349-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/christopher-burns-360244-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/christopher-burns-368617-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 43,
+    "product_name": "Dewalt Disc Sander",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/christopher-jolly-1238079-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 44,
+    "product_name": "Bosch Belt Sander",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/chrome-close-up-equipment-914913.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/clark-young-135435-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/classic-equipment-hammer-618151.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/clem-onojeghuo-201645-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 45,
+    "product_name": "Dewalt Air Compressor",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/close-up-dark-equipment-333837.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 46,
+    "product_name": "Craftsman Chainsaw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/close-up-drill-electric-41209.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/close-up-equipment-fix-221045.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/cnc-cnc-machine-drill-47338.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 47,
+    "product_name": "Hilti Radial Arm Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/construction-flash-friction-162534.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 48,
+    "product_name": "Bosch Chainsaw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/construction-grinder-industry-977526.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/cordless-drills.png"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/cordless-power-grinders.png"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/cordless-power-saws.png"
+      }
+    ]
+  },
+  {
+    "product_id": 49,
+    "product_name": "Craftsman Jigsaw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/crissy-jarvis-1329145-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 50,
+    "product_name": "Bosch Circular Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/dane-deaner-272363-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/david-pennington-328782-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/david-pisnoy-543156-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/david-pisnoy-660309-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 51,
+    "product_name": "Bosch Hammer Drill",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/david-rangel-510458-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/david-siglin-87978-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 52,
+    "product_name": "Hilti ReciprocatingSaw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/dewang-gupta-651924-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/dominik-scythe-283327-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/dominik-scythe-283390-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/drills-toolbox-tools-20791.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 53,
+    "product_name": "Dewalt Chop Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/edoardo-busti-506388-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 54,
+    "product_name": "Bosch Lathe",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/el-alce-web-379807-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 55,
+    "product_name": "Dewalt Impact Wrench",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/elliott-stallion-481648-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/eugen-str-1111451-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/fancycrave-219666-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 56,
+    "product_name": "Bosch Jointer",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/fancycrave-252334-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 57,
+    "product_name": "Craftsman Lathe",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/fancycrave-252342-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 58,
+    "product_name": "Craftsman Hammer Drill",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/fancycrave-252351-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/fancycrave-252356-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/fancycrave-267689-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/fancycrave-342517-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 59,
+    "product_name": "Bosch Air Compressor",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/fleur-treurniet-325960-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/george-pastushok-383925-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/greyson-joralemon-482879-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/greyson-joralemon-482880-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 60,
+    "product_name": "Hilti Disc Sander",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/h0801-f2b1c9a6f899bbe7b4b3b27879eeef59.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/hammer-nails-old-162644.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/hammers-drills.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/hello-i-m-nik-714661-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 61,
+    "product_name": "Craftsman Scroll Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/hunter-haley-424239-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/hunter-haley-424256-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 62,
+    "product_name": "Dewalt Lathe",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/ian-schneider-91717-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/indoors-iron-machine-1571736.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jack-douglass-401718-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 63,
+    "product_name": "Bosch Radial Arm Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jack-douglass-401720-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jeff-sheldon-3221-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 64,
+    "product_name": "Dewalt Angle Grinder",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jeff-sheldon-3230-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jeshoots-com-781789-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jesse-orrico-62699-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 65,
+    "product_name": "Bosch Scroll Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jesse-orrico-94169-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jesse-schoff-56768-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 66,
+    "product_name": "Dewalt Nail Gun",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jim-quenzer-746614-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jo-szczepanska-57782-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/johannes-w-184509-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 67,
+    "product_name": "Hilti Angle Grinder",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jon-tyson-975575-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jonathan-chng-1056993-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jonny-swales-1222683-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/jose-aljovin-486564-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 68,
+    "product_name": "Dewalt Power Screwdriver",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/justin-bautista-1161733-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/justin-greene-137326-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 69,
+    "product_name": "Hilti Heat Gun",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/karan-bhatia-611291-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 70,
+    "product_name": "Craftsman Belt Sander",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/kelly-sikkema-251938-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/kenny-luo-527896-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 71,
+    "product_name": "Dewalt Orbital Sander",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/khadija-yousaf-1195824-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 72,
+    "product_name": "Dewalt Belt Sander",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/khara-woods-80967-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/kotagauni-srinivas-481125-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/ksenia-makagonova-227169-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/la-compagnie-robinson-239140-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 73,
+    "product_name": "Hilti Scroll Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/m0851-55542-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/malcolm-lightbody-698733-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/malte-wingen-701693-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/malte-wingen-701695-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 74,
+    "product_name": "Hilti Impact Driver",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/malte-wingen-701699-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/malte-wingen-701702-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/malte-wingen-701707-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 75,
+    "product_name": "Dewalt Shop Vacuum",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/mariana-b-604752-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 76,
+    "product_name": "Dewalt Chainsaw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/marina-bridger-1300916-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/markus-spiske-1288339-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 77,
+    "product_name": "Dewalt Reciprocating Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/markus-spiske-344594-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 78,
+    "product_name": "Hilti Power Screwdriver",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/markus-spiske-378490-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 79,
+    "product_name": "Craftsman Power Screwdriver",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/markus-spiske-717241-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/marten-bjork-726400-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/matt-artz-333270-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/matt-artz-333274-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 80,
+    "product_name": "Craftsman Impact Driver",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/matt-artz-353203-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/matt-artz-353210-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 81,
+    "product_name": "Craftsman Table Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/matt-artz-353260-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/matt-artz-353273-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/matt-artz-353295-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 82,
+    "product_name": "Dewalt Jigsaw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/matt-artz-385667-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/matt-haggerty-46184-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 83,
+    "product_name": "Dewalt Heat Gun",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/matteo-minoglio-976076-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/matthew-brodeur-504130-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 84,
+    "product_name": "Hilti Belt Sander",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/maxime-agnelli-718673-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/michal-pech-490301-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/miguel-aguilera-679877-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 85,
+    "product_name": "Dewalt Hammer Drill",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/mikael-kristenson-242108-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 86,
+    "product_name": "Hilti Jointer",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/mike-wilson-289995-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/milan-popovic-532663-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/national-power-tools-sales-and-services-shahaganj-aurangabad-aurangabad-maharashtra-power-tool-dealers-si0uz20.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 87,
+    "product_name": "Bosch Heat Gun",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/neonbrand-357018-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/neonbrand-716631-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/neonbrand-717862-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 88,
+    "product_name": "Craftsman Angle Grinder",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/nomao-saeki-156273-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/prateek-katyal-713366-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/quino-al-366037-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/rakhmat-suwandi-1277907-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 89,
+    "product_name": "Hilti Impact Wrench",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/randy-fath-732841-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/rawpixel-1053176-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/rawpixel-1135759-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/rawpixel-741689-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 90,
+    "product_name": "Craftsman Impact Wrench",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/rawpixel-782044-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/rhondak-native-florida-folk-artist-83553-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/ricky-kharawala-308072-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/ridgid-impact-wrenches-r86011b-64_1000.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 91,
+    "product_name": "Craftsman Radial ArmSaw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/ridgid-table-saws-r4512-64_1000.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 92,
+    "product_name": "Dewalt Circular Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/rk5151k-mobile-bestseller_1.1475168780.png"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/rob-lambert-64186-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/rodney-truitt-jr-252364-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/russ-ward-1148227-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 93,
+    "product_name": "Bosch Orbital Sander",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/russ-ward-783591-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/ryan-hafey-102451-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/s-w-37942-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/samuel-zeller-1244860-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 94,
+    "product_name": "Bosch Nail Gun",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/samuel-zeller-691385-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/sergey-zolkin-21234-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/sergio-zamudio-479888-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/sherman-yang-597190-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 95,
+    "product_name": "Craftsman Orbital Sander",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/sherman-yang-598251-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/sidney-pearce-560090-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/sidney-pearce-982709-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 96,
+    "product_name": "Bosch Chop Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/simon-caspersen-524699-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/sneaky-elbow-324446-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/spanners-tools-wrenches-9598.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 97,
+    "product_name": "Bosch Impact Wrench",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/square-films-541864-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 98,
+    "product_name": "Bosch Impact Driver",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/tammy-gann-739935-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/tanner-sheltry-413680-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 99,
+    "product_name": "Hilti Circular Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/tim-wright-122641-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/todd-quackenbush-701-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/tr-veler-671730-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/trinity-treft-509938-unsplash.jpg"
+      }
+    ]
+  },
+  {
+    "product_id": 100,
+    "product_name": "Dewalt Miter Saw",
+    "images": [
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/umanoide-622384-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/vance-osterhout-1281905-unsplash.jpg"
+      },
+      {
+        "image_url": "https://front-end-capstone-project.s3.amazonaws.com/vu-m-khuee-768814-unsplash.jpg"
+      }
+    ]
+  }
+]
