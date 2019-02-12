@@ -22,7 +22,7 @@ class App extends React.Component {
 const wrap = {
   display: "grid",
   gridTemplateColumns: "repeat(2, 1fr)",
-  gridGap: "20px",
+  gridGap: "30px",
   gridTemplateRows: "auto",
   width: "900px"
 };

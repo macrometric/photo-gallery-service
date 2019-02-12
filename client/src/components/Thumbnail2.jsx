@@ -1,5 +1,7 @@
 import React from "react";
 
+// TODO: Render proper image based on product ID
+
 class ThumbnailTwo extends React.Component {
   constructor(props) {
     super(props);
@@ -21,7 +23,7 @@ class ThumbnailTwo extends React.Component {
         Thumbnail 2
         <img
           style={size}
-          src={"https://front-end-capstone-project.s3.amazonaws.com/057.jpg"}
+          src={"https://front-end-capstone-project.s3.amazonaws.com/102820.jpg"}
           alt="stuff2"
           onClick={this.handleClick}
         />
