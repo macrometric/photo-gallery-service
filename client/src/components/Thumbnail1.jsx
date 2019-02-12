@@ -1,16 +1,24 @@
 import React from "react";
 
-function ThumbnailOne() {
-  return (
-    <div>
-      Thumbnail 1
-      <img
-        style={size}
-        src={"https://front-end-capstone-project.s3.amazonaws.com/057.jpg"}
-        alt="stuff1"
-      />
-    </div>
-  );
+class ThumbnailOne extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      active: false
+    };
+  }
+  render() {
+    return (
+      <div>
+        Thumbnail 1
+        <img
+          style={size}
+          src={"https://front-end-capstone-project.s3.amazonaws.com/057.jpg"}
+          alt="stuff1"
+        />
+      </div>
+    );
+  }
 }
 
 const size = {
