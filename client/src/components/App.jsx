@@ -5,6 +5,7 @@ import ThumbnailContainer from "./ThumbnailContainer.jsx";
 class App extends React.Component {
   constructor(props) {
     super(props);
+    this.state = {};
   }
   render() {
     return (
@@ -20,9 +21,9 @@ class App extends React.Component {
 
 const wrap = {
   display: "grid",
-  "grid-template-columns": "repeat(2, 1fr)",
-  "grid-gap": "20px",
-  "grid-template-rows": "auto",
+  gridTemplateColumns: "repeat(2, 1fr)",
+  gridGap: "20px",
+  gridTemplateRows: "auto",
   width: "900px"
 };
 
