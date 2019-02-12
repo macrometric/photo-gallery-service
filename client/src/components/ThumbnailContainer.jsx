@@ -6,7 +6,6 @@ import ThumbnailThree from "./Thumbnail3.jsx";
 function ThumbnailContainer() {
   return (
     <div>
-      <p>Thumbnail Container Here</p>
       <ThumbnailOne />
       <ThumbnailTwo />
       <ThumbnailThree />
