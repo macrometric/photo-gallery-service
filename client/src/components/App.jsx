@@ -8,10 +8,9 @@ class App extends React.Component {
     super(props);
     this.state = {
       id: 5,
-      active: false // image URL
+      active: false, // image URL
+      images: []
     };
-    // map over array: turn each URL into an object containing URL && active is true or false
-    // thumbnails should be one component, thumbnails could be array??
     // conditional rendering: if false - in thumbnail && size ===, if true - in big image && size ===
     this.handleClick = this.handleClick.bind(this);
   }
@@ -20,11 +19,18 @@ class App extends React.Component {
     axios
       .get(`/products/${this.state.id}`)
       .then(response => {
+        // console.log("get response", response);
         let images = response.data[0].images;
-        // console.log(images);
+        let arr = [];
         images.map(image => {
-          console.log(image.image_url);
+          // console.log("this is the image URL": image.image_url);
+          arr.push({ image_url: image.image_url, active: false });
         });
+        // console.log("this is the array of image objects", arr);
+        this.setState({
+          images: arr
+        });
+        // console.log("this is the new state", this.state.images);
       })
       .catch(error => {
         console.log(error);
@@ -44,7 +50,7 @@ class App extends React.Component {
         <ThumbnailContainer
           style={left}
           handleClick={this.handleClick}
-          isactive={this.state.active}
+          images={this.state.images}
         />
         <ImageContainer style={right} />
       </div>
