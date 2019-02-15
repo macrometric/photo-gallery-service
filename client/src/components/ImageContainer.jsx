@@ -1,15 +1,12 @@
 import React from "react";
 
-// TODO: Render proper image based on product ID
-
-function ImageContainer() {
+function ImageContainer(props) {
+  // console.log("hello", props.images);
+  const image = props.images[0];
+  // console.log(image, ": image in container");
   return (
     <div>
-      <img
-        style={size}
-        src={"https://front-end-capstone-project.s3.amazonaws.com/101932.jpg"}
-        alt="stuff"
-      />
+      {image ? <img style={size} src={image.image_url} alt="stuff" /> : ""}
     </div>
   );
 }

@@ -52,7 +52,7 @@ class App extends React.Component {
           handleClick={this.handleClick}
           images={this.state.images}
         />
-        <ImageContainer style={right} />
+        <ImageContainer style={right} images={this.state.images.slice(0, 1)} />
       </div>
     );
   }
