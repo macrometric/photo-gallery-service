@@ -6,14 +6,14 @@ function ImageContainer(props) {
   // console.log(image, ": image in container");
   return (
     <div>
-      {image ? <img style={size} src={image.image_url} alt="stuff" /> : ""}
+      {image ? <img style={size} src={image.image_url} alt="tool" /> : ""}
     </div>
   );
 }
 
 const size = {
   width: "600px",
-  paddingTop: "40px"
+  paddingTop: "20px"
 };
 
 export default ImageContainer;

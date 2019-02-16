@@ -7,11 +7,10 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      id: 5,
-      active: false, // image URL
-      images: []
+      id: 4,
+      images: [],
+      currentImage: ""
     };
-    // conditional rendering: if false - in thumbnail && size ===, if true - in big image && size ===
     this.handleClick = this.handleClick.bind(this);
   }
 
@@ -28,7 +27,8 @@ class App extends React.Component {
         });
         // console.log("this is the array of image objects", arr);
         this.setState({
-          images: arr
+          images: arr,
+          currentImage: arr.slice(0, 1)
         });
         // console.log("this is the new state", this.state.images);
       })
@@ -37,10 +37,11 @@ class App extends React.Component {
       });
   }
 
-  handleClick(e) {
+  handleClick(e, image) {
     e.preventDefault();
+    console.log("Target event", image);
     this.setState(state => ({
-      active: !state.active
+      currentImage: [image]
     }));
   }
 
@@ -52,7 +53,7 @@ class App extends React.Component {
           handleClick={this.handleClick}
           images={this.state.images}
         />
-        <ImageContainer style={right} images={this.state.images.slice(0, 1)} />
+        <ImageContainer style={right} images={this.state.currentImage} />
       </div>
     );
   }

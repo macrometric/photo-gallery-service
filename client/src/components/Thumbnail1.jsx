@@ -7,19 +7,21 @@ function Thumbnail(props) {
 
   return (
     <div>
-      Thumbnail
       <img
         style={size}
         src={props.image.image_url}
-        alt="example alt"
-        onClick={props.handleClick}
+        alt="power tools"
+        onClick={e => {
+          props.handleClick(e, props.image);
+        }}
       />
     </div>
   );
 }
 
 const size = {
-  width: "200px"
+  width: "150px",
+  paddingTop: "20px"
 };
 
 export default Thumbnail;
