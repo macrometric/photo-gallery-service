@@ -39,7 +39,7 @@ class App extends React.Component {
 
   handleClick(e, image) {
     e.preventDefault();
-    console.log("Target event", image);
+    // console.log("Target event", image);
     this.setState(state => ({
       currentImage: [image]
     }));
