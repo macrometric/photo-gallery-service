@@ -26,4 +26,16 @@ const read = callback => {
     });
 };
 
-module.exports = { Product, read };
+const findById = (id, callback) => {
+  Product.find({ product_id: id })
+    .then((data, err) => {
+      // console.log("In db.findById, successfully retrieved: ", data);
+      callback(err, data);
+    })
+    .catch(err => {
+      console.log("Error in db.findById function", err);
+      callback(err);
+    });
+};
+
+module.exports = { Product, read, findById };
