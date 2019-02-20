@@ -11,7 +11,7 @@ function Thumbnail(props) {
         style={size}
         src={props.image.image_url}
         alt="power tools"
-        onClick={e => {
+        onMouseOver={e => {
           props.handleClick(e, props.image);
         }}
       />
