@@ -3,7 +3,7 @@ import ImageContainer from "./ImageContainer.jsx";
 import ThumbnailContainer from "./ThumbnailContainer.jsx";
 import axios from "axios";
 
-class App extends React.Component {
+class Gallery extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -77,4 +77,4 @@ const right = {
   "grid-column": 2
 };
 
-export default App;
+export default Gallery;
