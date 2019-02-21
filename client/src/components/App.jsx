@@ -16,7 +16,8 @@ class Gallery extends React.Component {
 
   componentDidMount() {
     axios
-      .get(`/products/${this.props.id}`)
+      // .get(`/products/${this.props.id}`)
+      .get(`/products/${this.state.id}`)
       .then(response => {
         // console.log("get response", response);
         let images = response.data[0].images;
