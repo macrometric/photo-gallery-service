@@ -22,7 +22,9 @@ function Thumbnail(props) {
 const size = {
   width: "100%",
   paddingTop: "20px",
-  alignContent: "center"
+  alignContent: "center",
+  maxHeight: "130px",
+  objectFit: "cover"
 };
 
 export default Thumbnail;
