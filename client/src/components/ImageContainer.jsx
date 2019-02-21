@@ -12,7 +12,7 @@ function ImageContainer(props) {
 }
 
 const size = {
-  width: "600px",
+  width: "100%",
   paddingTop: "20px"
 };
 

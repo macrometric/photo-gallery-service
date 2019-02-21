@@ -63,18 +63,23 @@ class Gallery extends React.Component {
 
 const wrap = {
   display: "grid",
-  gridTemplateColumns: "repeat(2, 1fr)",
+  gridTemplateColumns: "20% 75%",
   gridGap: "30px",
   gridTemplateRows: "auto",
-  width: "900px"
+  width: "100%",
+  alignItems: "center"
 };
 
 const left = {
-  "grid-column": 1
+  "grid-column": 1,
+  alignContent: "center",
+  width: "20%"
 };
 
 const right = {
-  "grid-column": 2
+  "grid-column": 2,
+  alignContent: "center",
+  width: "75%"
 };
 
 export default Gallery;
