@@ -13,9 +13,10 @@ class Gallery extends React.Component {
       product_name: ""
     };
     this.handleClick = this.handleClick.bind(this);
+    this.updateImages = this.updateImages.bind(this);
   }
 
-  componentDidMount() {
+  updateImages() {
     axios
       // .get(`/products/${this.props.id}`)
       .get(`/products/${this.state.id}`)
@@ -39,6 +40,21 @@ class Gallery extends React.Component {
       .catch(error => {
         console.log(error);
       });
+  }
+
+  componentDidMount() {
+    window.addEventListener("updateProduct", event => {
+      this.setState({ id: event.detail });
+    });
+    this.updateImages();
+  }
+
+  componentDidUpdate(prevProps, prevState) {
+    if (this.state.id !== prevState.id) {
+      this.updateImages();
+      console.log("new state set");
+    }
+    console.log("no new state");
   }
 
   handleClick(e, image) {
