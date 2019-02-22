@@ -8,7 +8,7 @@ function Thumbnail(props) {
   return (
     <div>
       <img
-        style={size}
+        className="thumbnail"
         src={props.image.image_url}
         alt="power tools"
         onMouseOver={e => {
@@ -18,13 +18,5 @@ function Thumbnail(props) {
     </div>
   );
 }
-
-const size = {
-  width: "100%",
-  paddingTop: "20px",
-  alignContent: "center",
-  maxHeight: "130px",
-  objectFit: "cover"
-};
 
 export default Thumbnail;

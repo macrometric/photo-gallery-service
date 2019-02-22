@@ -28,7 +28,7 @@ class Gallery extends React.Component {
           // console.log("this is the image URL": image.image_url);
           arr.push({ image_url: image.image_url, active: false });
         });
-        console.log("this is the array of image objects", arr);
+        // console.log("this is the array of image objects", arr);
         this.setState({
           images: arr,
           currentImage: arr.slice(0, 1),
@@ -51,49 +51,17 @@ class Gallery extends React.Component {
 
   render() {
     return (
-      <div className="wrapper" style={wrap}>
+      <div className="wrap">
         <ThumbnailContainer
-          style={left}
+          className="left"
           handleClick={this.handleClick}
           images={this.state.images}
         />
-        <ImageContainer style={right} images={this.state.currentImage} />
-        <p style={text}>Images for {this.state.product_name}</p>
+        <ImageContainer className="right" images={this.state.currentImage} />
+        <p className="text">Images for {this.state.product_name}</p>
       </div>
     );
   }
 }
-
-// Styles
-
-const wrap = {
-  display: "grid",
-  gridTemplateColumns: "20% 75%",
-  gridGap: "30px",
-  gridTemplateRows: "auto",
-  width: "100%",
-  alignItems: "center"
-};
-
-const left = {
-  "grid-column": 1,
-  alignContent: "center",
-  width: "20%"
-};
-
-const right = {
-  "grid-column": 2,
-  alignContent: "center",
-  width: "75%"
-};
-
-const text = {
-  fontFamily: "Arial, Helvetica, sans-serif",
-  fontSize: "10px",
-  gridColumn: "2",
-  textAlign: "right",
-  fontStyle: "italic",
-  marginTop: "-15px"
-};
 
 export default Gallery;
