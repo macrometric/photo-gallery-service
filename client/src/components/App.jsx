@@ -9,7 +9,8 @@ class Gallery extends React.Component {
     this.state = {
       id: 4,
       images: [],
-      currentImage: ""
+      currentImage: "",
+      product_name: ""
     };
     this.handleClick = this.handleClick.bind(this);
   }
@@ -21,15 +22,17 @@ class Gallery extends React.Component {
       .then(response => {
         // console.log("get response", response);
         let images = response.data[0].images;
+        let product_name = response.data[0].product_name;
         let arr = [];
         images.map(image => {
           // console.log("this is the image URL": image.image_url);
           arr.push({ image_url: image.image_url, active: false });
         });
-        // console.log("this is the array of image objects", arr);
+        console.log("this is the array of image objects", arr);
         this.setState({
           images: arr,
-          currentImage: arr.slice(0, 1)
+          currentImage: arr.slice(0, 1),
+          product_name: product_name
         });
         // console.log("this is the new state", this.state.images);
       })
@@ -55,6 +58,7 @@ class Gallery extends React.Component {
           images={this.state.images}
         />
         <ImageContainer style={right} images={this.state.currentImage} />
+        <p style={text}>Images for {this.state.product_name}</p>
       </div>
     );
   }
@@ -81,6 +85,15 @@ const right = {
   "grid-column": 2,
   alignContent: "center",
   width: "75%"
+};
+
+const text = {
+  fontFamily: "Arial, Helvetica, sans-serif",
+  fontSize: "10px",
+  gridColumn: "2",
+  textAlign: "right",
+  fontStyle: "italic",
+  marginTop: "-15px"
 };
 
 export default Gallery;
