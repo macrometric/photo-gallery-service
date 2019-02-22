@@ -58,7 +58,9 @@ class Gallery extends React.Component {
           images={this.state.images}
         />
         <ImageContainer className="right" images={this.state.currentImage} />
-        <p className="text">Images for {this.state.product_name}</p>
+        <p className="productDetailText">
+          Images for {this.state.product_name}
+        </p>
       </div>
     );
   }
