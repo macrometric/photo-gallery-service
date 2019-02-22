@@ -28,7 +28,7 @@ p {
   width: 75%;
 }
 
-#productDetailText {
+#product-detail-text {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 10px;
   grid-column: 2;
