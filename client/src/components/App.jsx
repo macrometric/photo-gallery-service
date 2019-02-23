@@ -7,7 +7,7 @@ class Gallery extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      id: 27,
+      id: 19,
       images: [],
       currentImage: "",
       product_name: ""
@@ -52,9 +52,9 @@ class Gallery extends React.Component {
   componentDidUpdate(prevProps, prevState) {
     if (this.state.id !== prevState.id) {
       this.updateImages();
-      console.log("new state set");
+      // console.log("new state set");
     }
-    console.log("no new state");
+    // console.log("no new state");
   }
 
   handleClick(e, image) {

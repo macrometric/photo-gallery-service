@@ -14,6 +14,9 @@ function Thumbnail(props) {
         onMouseOver={e => {
           props.handleClick(e, props.image);
         }}
+        // onClick={e => {
+        //   props.handleClick(e, props.image);
+        // }}
       />
     </div>
   );
